@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/drum-and-triangle/static/css/main.aaaf8f2f.css",
+    "main.js": "/drum-and-triangle/static/js/main.2f499315.js",
+    "index.html": "/drum-and-triangle/index.html",
+    "main.aaaf8f2f.css.map": "/drum-and-triangle/static/css/main.aaaf8f2f.css.map",
+    "main.2f499315.js.map": "/drum-and-triangle/static/js/main.2f499315.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf8f2f.css",
+    "static/js/main.2f499315.js"
+  ]
+}
