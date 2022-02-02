@@ -2,7 +2,7 @@
 
 This is a interactive page that will allow you to play a drum and triangle.
 
-Just a fun interactive experience for users.
+Just a fun interactive experience for users. <a href="https://arthurlee945.github.io/Drum-and-Triangle-Set/">Live Page</a>
 
 This is what the drumset looks like:
 <img  src ="https://lh3.googleusercontent.com/wmDazARiNOuV4LSv-XMbugeTc5xhXpuObrwPoO8o4wlgKvniU9jZwS7DWfumE6KCJ1R2rkgHnNdfkc-73wA61oWTQgBNODOpdFJScVp0hvyemDn41qa-7zYmWg8ngrj9teNx2A767vWCbfqpB9axjbPah1eAXIlzyx0LCsY0IM6vje4o6Fn4yQWZv5K-fKwwWki-gv_67BMewQGZkTrWRpKzmc8S-uNyjF_TiKp5hnU2Ozg-9UiC4VynrGVSzRoZTwEHS9EZr_TyjSwjinZi3etKFktmALpbLenRUTr6mI15jYp4AOLaSFxQrtp-Or_bZFT52x3rG0HglbUOtlXROt4wp8jwHOT7zbDyLZFjp8sZUhC7RIN2U4HAiDTE-FqJrmWaEcwp11uVu5pMWBVOX_fQ4DCyVFeZ6ab8B4EVlJZbLiG4gyMj4DED5mwD7fy2Sx1x0tzwVbcSl0hsYPYEyLRpL7lRSR6mweVggJXV7ijms27PteQY13Z5AsR6DCv2idh2_iUiJU8eK8NhoT-vetKyL9k8vVKOBbYD2YslcPCuIpVPVGeB3EPMW-JOKeq3QrRxJ__uvp6Wak4a2mVUZfjau051-urvQOaUoHGkE6XANgIed--rPcRjN6mO11v-EYa_csLbvd4eil2fKCrG2aVP8YTFYMHieYaUhf_H-TgRyMUmwW2Gw_3eQCjSQxsop-Sr5tPpNfQlGG7BF_jZTYfC=w1919-h895-no?authuser=2" alt ="my Drum Set"/>
